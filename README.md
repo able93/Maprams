@@ -6,7 +6,13 @@ Maprams is an application built using the R-framework and can be used to make pl
 The depth or vertical stretching at a particular longitude and latitude are calculated following this link: https://www.myroms.org/wiki/Vertical_S-coordinate. The data for the plots are sliced or generated using the ocean_time and level (for ROMS file) or from the third and fourth dimensions for other NetCDF files.
 
 DOWNLOAD AND INSTALLATION
-Maprams 1.0 can be downloaded for both Windows and Mac based on user preference. Maprams can be downloaded on ………. As an executable file. 
+Maprams 1.0 can be downloaded for Windows. Maprams can be downloaded as executable file on:
+
+https://maprams.wixsite.com/maprams/
+
+or it can be used online on:
+
+https://ablelin.shinyapps.io/maprams/
 
 The installation is straightforward. After the executable file is downloaded, the user can right-click and run as administrator or double-click the executable file and allow the application to be installed on the desktop. After a successful installation, the application can be opened from Windows Start.
 
