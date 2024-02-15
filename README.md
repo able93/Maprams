@@ -28,7 +28,9 @@ The user is expected to upload the NetCDF file on the Surface plot tab. The file
 
 
 CONTACT
+
 Maprams was developed by Abiola Adebiyi, a Ph.D. student at Florida Atlantic University, USA. Bugs and recommendations can be forwarded to him at abrahamabiola3@gmail.com.
 
 ACKNOWLEDGMENTS
+
 Maprams is majorly built on the R-framework, R Shiny, the vertical stretching equations by ROMS, and Google Chrome Portable used to develop as a desktop application.
