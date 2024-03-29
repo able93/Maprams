@@ -12,6 +12,8 @@ Maprams 1.0 can be downloaded for Windows. Maprams can be downloaded as executab
 
 https://maprams.wixsite.com/maprams/
 
+https://drive.google.com/file/d/1B7uMQG0ylQRpcjwypFAEy0T3G6S1MClW/view
+
 or it can be used online on:
 
 https://ablelin.shinyapps.io/maprams/
